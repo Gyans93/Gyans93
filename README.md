@@ -1,4 +1,4 @@
-### Hi there, I am Gyan, a Passionate Software Engineer and a Problem solver. 👋
+### Hi there,👋 I am Gyan, a Passionate Software Engineer and a Problem solver. 
 
 
 <!--
