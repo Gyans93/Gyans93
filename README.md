@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I love System Design and strongly believe in loosely coupled architecture.
-- 🌱 I’m currently working on some cool projects in the field of Data Science and Web Application development.
+- 🌱 Currently working on some cool projects in the field of Data Science and Web Application development.
 - :house: Visit my website https://gyan.netlify.com/ to know more about me. 
 - 💬 Ask me about Web Developement, Cloud, System design, and Databases.
 - 📫 How to reach me: Email: gyanprakash92@gmail.com, LinkedIn : https://linkedin.com/in/gyan-prakash25
